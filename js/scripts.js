@@ -19,4 +19,3 @@ schemeSvg.addEventListener('click', (e)=> {
 menuButton.addEventListener('click', ()=> {
     menu.classList.toggle('is-open');
 })
-
